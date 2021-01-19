@@ -1,0 +1,4 @@
+.git
+/front/node_modules
+/front/.env
+/back/.env
